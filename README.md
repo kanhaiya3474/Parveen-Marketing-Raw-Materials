@@ -53,4 +53,4 @@ All products are sourced from trusted manufacturers and supplied under standard 
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/parveen-marketing-website.git
+https://kanhaiya3474.github.io/parveen-marketing-website/
